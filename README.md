@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# Logic Questions      
 
-You can use the [editor on GitHub](https://github.com/utkarsh-verma/logic-dsa/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Question 1        
+Design an algorithm to sort the ages of a million people        
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Question 2      
+Given a time, calculate the angle between the hour and minutes hand of a clock. Derive a generalized formula for the same       
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/utkarsh-verma/logic-dsa/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Question 3       
